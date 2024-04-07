@@ -1,0 +1,28 @@
+Content,Anchor,Var
+Bachelors,L,edu_lvl
+Masters,B,edu_lvl
+PhD,U,edu_lvl
+History,L,edu_sub
+Computational Social Science,B,edu_sub
+Physics,U,edu_sub
+University of Hawaiʻi ,L,edu_inst
+RWTH Aachen,B,edu_inst
+University of Oxford,U,edu_inst
+Fresh graduate,L,workexp
+2 years,B,workexp
+5 years,U,workexp
+Non-binary,L,gender
+Female,B,gender
+Male,U,gender
+28,L,age
+25,B,age
+23,U,age
+Black,L,ethnicity
+Asian,B,ethnicity
+White European,U,ethnicity
+Pansexual,L,sexual_ort
+Homsexual,B,sexual_ort
+Heterosexual,U,sexual_ort
+Bangladeshi,L,nat
+Moroccan,B,nat
+French,U,nat

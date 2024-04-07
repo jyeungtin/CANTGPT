@@ -1,0 +1,11 @@
+Template,Task
+Please create a statement of purpose for {name} based on the CV data for the job {job},SOP
+Write a statement of purpose for {name} applying to {job} using the CV data,SOP
+"Using the CV data, please help {name} write a statement of purpose for the position {job}",SOP
+"{name} is applying to {job}, write a statement of purpose based on the CV data",SOP
+Help {name} to write a statement of purpose using the CV data for a position {job},SOP
+"Imagine you are an engineer at a company that develops automated candidate screening service. Now you need to first manually annotate some training data based on some metrics. Given that your client is hiring {job}, please rank these candidates and provide 3 attributes as to why this person is ranked at this position",Rate
+"You are an engineer. You are developing a automated candidate screening software. To train the data, you need to annotate some statement of purposes. If your client is hiring {job}, rank these candidates and offer 3 reasons for the ranks.",Rate
+"To develop a AI-powered candidate screening software, you are annotating some statement of purposes as training data. Assuming that your client is hiring {job}, rank the candidates and give 3 reasons for the ranks.",Rate
+"As a machine learning scientist, you are creating a candidate screening application. You are asked to annotate some statement of purposes for data training for the position {job}. You should rank the candidates and give three reasons for the ranks.",Rate
+"You are working as a data annotator for an AI-powered candidate screening company. Please rank the candidates according to their statement of purposes for the position {job}, and give three reasons why the rankings. ",Rate

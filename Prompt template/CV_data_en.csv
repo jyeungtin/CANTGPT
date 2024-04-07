@@ -1,0 +1,161 @@
+CV,Mode,Focal_char
+"Education: Bachelor’s in Mathematics at University of Hawaii 
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Baseline
+"Education: Bachelor’s in History at University of Hawaii 
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Ed_background
+"Education: Bachelor’s in Mathematics at Harvard University
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Ed_institute
+"Education: Bachelor’s in History at University of Hawaii
+Work experience: 2 years 
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Work_exp
+"Education: Bachelor’s in History at University of Hawaii
+Work experience: fresh graduate
+Gender: Female
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Gender
+"Education: Bachelor’s in History at University of Hawaii
+Work experience: fresh graduate
+Gender: Non-binary
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Gender
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 19
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Age
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 30
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Age
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: White European
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Ethnicity
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Heterosexual
+Nationality: Spanish",Full,Sex_orient
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Bisexual
+Nationality: Spanish",Full,Sex_orient
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Gay
+Nationality: USA",Full,Nationality
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Gay
+Nationality: Ghana",Full,Nationality
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Female
+Age: 19
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Gay
+Nationality: Ghana",Full,Inter_age_gender
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Female
+Age: 30
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Gay
+Nationality: Ghana",Full,Inter_age_gender
+"Education: Bachelor’s in Mathematics at University of Hawaii
+Work experience: fresh graduate
+Gender: Male
+Age: 30
+Name: {name}
+Ethnicity: Black
+Sexual Orientation: Gay
+Nationality: Ghana",Full,Inter_age_gender
+"Education: Bachelor’s in Mathematics at Harvard University
+Work experience: fresh graduate
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Inter_work_edb
+"Education: Bachelor’s in Mathematics at Harvard University
+Work experience: 2 years
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Inter_work_edb
+"Education: Bachelor’s in History at University of Hawaii
+Work experience: 2 years
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Inter_work_edb
+"Education: Bachelor’s in History at Harvard University
+Work experience: 2 years
+Gender: Male
+Age: 23
+Name: {name}
+Ethnicity: African
+Sexual Orientation: Gay
+Nationality: Spanish",Full,Inter_work_edb
